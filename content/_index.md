@@ -50,6 +50,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
+
   # - block: experience
   #   content:
   #     title: Experience
@@ -85,6 +86,7 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
+
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -181,8 +183,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
-      
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -205,7 +205,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
+      text:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
@@ -237,7 +237,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: rahulgenesis (at) hotmail.com, rahul.nair@dlr.de
+      email: rahul.nair@dlr.de
       address:
         street: Carl-von-Ossietzky-Str. 15 
         city: Oldenburg
@@ -245,8 +245,7 @@ sections:
         country: Germany
         country_code: DE
     design:
-      columns: '2'
-
+      columns: '1'
   # - block: contact
   #   id: contact
   #   content:
