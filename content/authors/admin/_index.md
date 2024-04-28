@@ -105,6 +105,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=L4r838IAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: fas
+    link: https://orcid.org/0000-0003-4832-8702
   - icon: github
     icon_pack: fab
     link: https://github.com/rahulrameshnair
