@@ -21,7 +21,7 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: German Aerospance Centre (DLR)
+  - name: German Aerospace Center (DLR)
     url: https://www.dlr.de/
 
 # Short bio (displayed in user profile at end of posts)
@@ -102,8 +102,8 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack. Previously it was icon: graduation-cap and icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=L4r838IAAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
@@ -125,5 +125,6 @@ social:
 highlight_name: true
 ---
 
-Rahul Ramesh Nair is a scientist in the field of carbon capture and carbon sequestration from atmosphere. His research interests lies at the intersection of process engineering, material sciences, technology assessment to develop novel materials that can remove carbon from the biosphere. **[Site under construction]**
+Rahul Ramesh Nair is a scientist in the field of carbon capture and carbon sequestration from atmosphere. His research interests lies at the intersection of process engineering, material sciences, technology assessment to develop novel materials that can remove carbon from the biosphere. 
+**[Site under construction]**
 {style="text-align: justify;"}
