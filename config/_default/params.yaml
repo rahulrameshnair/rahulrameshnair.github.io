@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: ocean #default was minimal
+  theme_night: ocean
+  font: ocean
   font_size: L
 
 # SEO
