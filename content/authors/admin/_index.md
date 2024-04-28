@@ -106,7 +106,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=L4r838IAAAAJ&hl=en
   - icon: orcid
-    icon_pack: fas
+    icon_pack: ai
     link: https://orcid.org/0000-0003-4832-8702
   - icon: github
     icon_pack: fab
