@@ -25,15 +25,16 @@ organizations:
     url: https://www.dlr.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include non-graphitizing carbon, 
+bio: My research interests include non-graphitizing carbon, pyrolysis, biochar and development of carbon-based nanocomposites for carbon capture.
 
 # Interests to show in About widget
 interests:
   - Non-graphitizing carbon
-  - Pyrolysis
-  - Carbon capture
+  - Slow Pyrolysis
+  - Biogenic nanocomposites
+  - Carbon capture and storage
   - Biochar
-  - Carbon sequestration
+  - Life cycle modelling
 
 # Education to show in About widget
 education:
@@ -44,9 +45,9 @@ education:
     - course: Masters in Mechanical Engineering
       institution: University of Kerala
       year: 2017
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2008
+    - course: Bachelors in Mechanical Engineering
+      institution: Cochin University of Science and Tech.
+      year: 2012
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -125,6 +126,6 @@ social:
 highlight_name: true
 ---
 
-Rahul Ramesh Nair is a scientist in the field of carbon capture and carbon sequestration from atmosphere. His research interests lies at the intersection of process engineering, material sciences, technology assessment to develop novel materials that can remove carbon from the biosphere. 
+Rahul Ramesh Nair is a scientist in the field of development of carbon-based nanocomposites for carbon capture and sequestration from atmosphere. His research interests lies at the intersection of process engineering, material sciences, technology assessment to develop practical and novel materials and/or processes that can remove carbon from the biosphere. 
 **[Site under construction]**
 {style="text-align: justify;"}
