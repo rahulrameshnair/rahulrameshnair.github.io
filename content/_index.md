@@ -201,6 +201,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: publics #an id for showing publications in the menus.yaml
     content:
       title: Recent Publications
       text: |-
