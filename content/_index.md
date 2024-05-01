@@ -257,10 +257,10 @@ sections:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+        - icon: linkedin
+          icon_pack: ai
+          name: My LinkedIn
+          link: 'https://www.linkedin.com/in/rahul-ramesh-nair/'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me

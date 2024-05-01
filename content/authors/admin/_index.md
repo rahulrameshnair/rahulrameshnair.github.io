@@ -110,10 +110,10 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0003-4832-8702
   - icon: github
-    icon_pack: fab
+    icon_pack: ai
     link: https://github.com/rahulrameshnair
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.linkedin.com/in/rahul-ramesh-nair/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
