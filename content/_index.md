@@ -258,7 +258,7 @@ sections:
       #   longitude: '-122.1697'  
       contact_links:
         - icon: linkedin
-          icon_pack: ai
+          icon_pack: fab
           name: My LinkedIn
           link: 'https://www.linkedin.com/in/rahul-ramesh-nair/'
         # - icon: skype
