@@ -236,10 +236,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Get in touch....
       # Contact (add or remove contact options as necessary)
-      email: rahul.nair@dlr.de
-      email: mail[at]rahulrameshnair.com
+      email: rahul.nair[@]dlr.de, mail[at]rahulrameshnair.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -262,24 +261,24 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: true
     design:
       columns: '2'
 ---
