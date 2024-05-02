@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: RRN # Website name
+title: Dr.-Ing Rahul Ramesh Nair # Website name
 baseURL: 'https://rahulrameshnair.com/' # Website URL
 
 ############################
