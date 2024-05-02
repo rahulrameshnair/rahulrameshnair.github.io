@@ -126,6 +126,5 @@ social:
 highlight_name: true
 ---
 
-Rahul Ramesh Nair is a scientist in the field of development of carbon-based nanocomposites for carbon capture and sequestration from atmosphere. His research interests lies at the intersection of process engineering, material sciences, technology assessment to develop practical and novel materials and/or processes that can remove carbon from the biosphere. 
-**[Site under construction]**
+The focus of my work is on the development of carbon-based nanocomposites for atmospheric carbon capture/sequestration, and their soil storage and/or utilization as multi-functional materials for industrial application (such as highly selective adsorbents for persistent pollutants). This research interest lies at the intersection of process engineering, material sciences and technology assessment in order to develop practical and novel materials and/or processes that can be deployed atscale in future.
 {style="text-align: justify;"}
