@@ -1,6 +1,6 @@
 ---
-title: Influence of sample mass during the synthesis of biochar
-subtitle: An investigation into the scaling effects during the pyrolysis of biomass in a thermogravimetric reactor
+title: Influence of scaling effect from sample mass during the synthesis of biochar
+subtitle: An investigation using a TGA as a lab-scale reactor to synthesize non-graphitizing carbon from biomass
 
 # Summary for listings and search engines
 summary: Scaling effect due to sample mass influences the synthesis of non-graphitizing carbon such as biochar in lab-scale reactors such as TGA. An investigation to reveal how these changes influences the pyrolysis process and resulting carbon structure.
@@ -41,8 +41,7 @@ categories:
   - Posts
 ---
 
-
-
 ## Overview
 
 
+Read the full article at [RSC Advances](https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra01911j)

@@ -109,6 +109,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-4832-8702
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Rahul-Nair-28
   - icon: github
     icon_pack: fab
     link: https://github.com/rahulrameshnair
