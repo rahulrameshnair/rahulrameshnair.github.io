@@ -25,7 +25,7 @@ organizations:
     url: https://www.dlr.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include non-graphitizing carbon, pyrolysis, biochar and development of carbon-based nanocomposites for carbon capture.
+bio: My research interests include non-graphitizing carbon, pyrolysis, biochar and development of carbon-based nanocomposites for carbon capture and sequestration.
 
 # Interests to show in About widget
 interests:
@@ -115,7 +115,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/rahulrameshnair
-  - icon: linkedin
+  - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/rahul-ramesh-nair/
   # Link to a PDF of your resume/CV.
