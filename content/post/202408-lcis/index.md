@@ -53,6 +53,6 @@ No standardized methods exist for publishing and sharing foreground LCIs with th
 
 Read the pre-print at [HAL Science](https://hal.science/hal-04652703v1).
 
-Github repo for the DLR tool [GitHub](https://github.com/rahulrameshnair/lcis/).
+The Python tool can be found in [GitHub](https://github.com/rahulrameshnair/lcis/).
 
-Final version of the work *[pending peer review]*
+Final version of the work and DOI is *[pending peer review]*
