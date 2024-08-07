@@ -9,7 +9,7 @@ summary: A novel, minimalistic, user-centric, machine-accessible, and extensible
 # projects: []
 
 # Date published
-date: '2024-08-07T00:00:00Z'
+date: '2024-08-06T00:00:00Z'
 
 # Date updated
 #lastmod: '2020-12-13T00:00:00Z'
