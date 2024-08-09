@@ -25,7 +25,7 @@ organizations:
     url: https://www.dlr.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include non-graphitizing carbon, pyrolysis, biochar and development of carbon-based nanocomposites for carbon capture and sequestration.
+bio: My research interests include non-graphitizing carbon, pyrolysis, biochar and development of multifunctional nanocomposites from biogenic carbon for carbon capture and sequestration in soil.
 
 # Interests to show in About widget
 interests:
@@ -33,7 +33,7 @@ interests:
   - Slow Pyrolysis
   - Biogenic nanocomposites
   - Carbon capture and storage
-  - Biochar
+  - Soil amelioration with biochar
   - Life cycle modelling
 
 # Education to show in About widget
@@ -129,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-The focus of my work is on the development of carbon-based nanocomposites for atmospheric carbon capture/sequestration, and their soil storage and/or utilization as multi-functional materials for industrial application (such as highly selective adsorbents for persistent pollutants). This research interest lies at the intersection of process engineering, material sciences and technology assessment in order to develop practical and novel materials and/or processes that can be deployed atscale in future.
+The focus of my work is on the development, hybridization and optimization of multifunctional nanocomposites derived from biogenic carbon sources for atmospheric carbon sequestration in soil, direct air capture (DAC) and industrial applications (such as highly selective adsorption of persistent pollutants). The application of these materials in soil, either for C-sequestration or at the end of their life cycle, explores their impacts on soil properties and soil-microbial ecosystem. This research  lies at the intersection of process engineering, material sciences and environmental life cycle modelling and aims to develop novel and economic materials and/or processes that can be deployed atscale in future.
 {style="text-align: justify;"}
