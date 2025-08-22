@@ -50,7 +50,7 @@ LCA studies of systems can be easily undertaken through many open-source, commer
 
 No standardized methods exist for publishing and sharing foreground LCIs with the relevant contextual information. As a first step to address this gap, this work proposes a novel, user-centric, machine-accessible, and extensible schema based on the Brightway LCA framework to share the foreground LCI. It is initially developed for generalized non-temporal LCAs. In this schema, an inventory is made up of five components: dataset, dataset properties, metadata, dependencies, and network. This schema is demonstrated for the use case of an aviation fuel supply chain using direct air capture system. A Python-based open-source tool has also been developed to convert LCIs according to the specifications of this schema. 
 
-
+Read the final published version at [Journal of Cleaner Production](https://doi.org/10.1016/j.jclepro.2025.146120)
 Read the pre-print at [HAL Science](https://hal.science/hal-04652703v1).
 
 The Python tool can be found in [GitHub](https://github.com/rahulrameshnair/lcis/).
