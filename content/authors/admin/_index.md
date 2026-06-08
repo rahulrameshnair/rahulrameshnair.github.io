@@ -49,10 +49,10 @@ education:
       institution: Cochin University of Science and Tech.
       year: 2012
 
-Skills
+# Certifications
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: ''
+  - name: Certifications
     items:
       - name: Eur-Ing
         description: '2026'
