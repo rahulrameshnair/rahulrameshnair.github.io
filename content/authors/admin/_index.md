@@ -6,7 +6,7 @@ title: Rahul Ramesh Nair
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Rahul Ramesh
+first_name: Dr.-Ing Rahul Ramesh
 last_name: Nair
 
 # Status emoji
@@ -29,9 +29,9 @@ bio: My research background is in non-graphitizing carbon, pyrolysis, biochar na
 
 # Interests to show in About widget
 interests:
-  - Non-graphitizing carbon
-  - Slow Pyrolysis
-  - Biogenic nanocomposites
+  - Direct Air Capture
+  - Catalytic pyrolysis
+  - Biogenic C-nanocomposites
   - Carbon capture and storage
   - Soil restoration with biochar
   - Life cycle modelling
@@ -49,18 +49,18 @@ education:
       institution: Cochin University of Science and Tech.
       year: 2012
 
-# Skills
+Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: Python
-#         description: ''
+skills:
+  - name: ''
+    items:
+      - name: Eur-Ing
+        description: '2026'
 #         percent: 80
 #         icon: python
 #         icon_pack: fab
-#       - name: Data Science
-#         description: ''
+      - name: Project Management Professional (PMP)
+        description: '2026'
 #         percent: 100
 #         icon: chart-line
 #         icon_pack: fas
