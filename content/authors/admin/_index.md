@@ -51,16 +51,16 @@ education:
 
 # Certifications
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Certifications
-    items:
-      - name: Eur-Ing
-        description: '2026'
+# skills:
+#   - name: Certifications
+#     items:
+#       - name: Eur-Ing
+#         description: '2026'
 #         percent: 80
 #         icon: python
 #         icon_pack: fab
-      - name: Project Management Professional (PMP)
-        description: '2026'
+#       - name: Project Management Professional (PMP)
+#         description: '2026'
 #         percent: 100
 #         icon: chart-line
 #         icon_pack: fas
