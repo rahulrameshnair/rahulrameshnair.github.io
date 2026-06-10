@@ -100,9 +100,9 @@ sections:
       items:
         - certificate_url: 
           # date_end: ''
-          date_start: '2026-01-01'
-          # description: ''
-          # icon: coursera
+          date_start: '2026-03-01'
+          description: 'A European professional engineering title recognizing engineering competence and professional experience.'
+          icon: check-badge
           organization: Engineers Europe
           # organization_url: 
           title: Eur-Ing
@@ -110,8 +110,8 @@ sections:
         - certificate_url: 
           # date_end: ''
           date_start: '2026-06-01'
-          # description: 
-          # icon: edx
+          description: 'A globally recognized certification in project leadership, risk management, stakeholder engagement, and value delivery.'
+          icon: check-badge
           organization: Project Management Institute
           # organization_url: https://www.edx.org
           title: Project Management Professional (PMP)

@@ -6,7 +6,7 @@ title: Rahul Ramesh Nair
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Dr.-Ing Rahul Ramesh
+first_name: Rahul Ramesh
 last_name: Nair
 
 # Status emoji
