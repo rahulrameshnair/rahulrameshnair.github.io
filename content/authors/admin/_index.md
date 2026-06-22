@@ -3,7 +3,7 @@
 title: Rahul Ramesh Nair
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Rahul Ramesh
@@ -25,17 +25,16 @@ organizations:
     url: https://www.dlr.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research background is in non-graphitizing carbon, pyrolysis, biochar nanocomposites for carbon capture and life cycle modelling of sustainable production systems.
+bio: I am a research scientist and project manager in the field of carbon capture, utilization and storage (CCUS). My works are at the intersection of materials science, systems modelling, process engineering, and sustainability assessment. 
 
 # Interests to show in About widget
 interests:
   - Direct Air Capture
-  - Catalytic pyrolysis
-  - Biogenic C-nanocomposites
-  - Carbon capture and storage
-  - Soil restoration with biochar
-  - Life cycle modelling
-
+  - CO₂ utilization pathways
+  - Technology transfer
+  - Development of R&D Programs
+  - Highly nanoporous carbon materials
+  - Sustainability assessments
 # Education to show in About widget
 education:
   courses:
@@ -129,5 +128,12 @@ social:
 highlight_name: true
 ---
 
-My research background is in the design, hybridization and optimization of multifunctional nanocomposites derived from land- and calorie-neutral biomass for carbon sequestration in soil, direct air capture (DAC) and industrial applications (such as highly selective adsorption of persistent pollutants). The application of these materials in soil, either for C-sequestration or at the end-of-life, also explores their long-term impacts on soil properties and soil-microbial ecosystem. This research lies at the intersection of process engineering, material sciences and environmental life cycle modelling. It aims to develop and tune these novel nanomaterials and scale their production processes such that they can be sustainably (environmentally and economically) deployed atscale in the near future.
+My research is at the intersection of materials science, systems modelling, process engineering, and sustainability assessment. My work focuses on carbon capture and utilization (CCUS) through direct air capture (DAC), biomass-based carbon sequestration, scale-up of carbon capture technologies at low technology readiness levels, and integrated environmental life cycle assessment (LCA) of utilization pathways such as the production of sustainable aviation fuels. 
+
+I hold a PhD in Engineering, the European Engineer (Eur Ing) title, and the Project Management Professional (PMP) certification. My professional background spans industry, academia, and national laboratories across Germany, Australia, and India. This cross-sector experience has shaped my perspective of R&D. I connect lab innovations, applied research, systems thinking, and project management inorder to translate emerging technologies into industrial applications.
+
+My long-term goal is to develop international and collaborative R&D programs that accelerate the transition of emerging sustainable technologies from proof-of-concept stages to scalable industrial solutions.
+
+*Climate change has no geopolitcal borders; neither should the science that tackles it.*
+
 {style="text-align: justify;"}
